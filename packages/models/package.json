@@ -9,7 +9,8 @@
   "author": "juanantonio@secmotic.com",
   "license": "ISC",
   "dependencies": {
-    "reflect-metadata": "^0.1.13"
+    "reflect-metadata": "^0.1.13",
+    "validate.js": "^0.13.1"
   },
   "devDependencies": {
     "typescript": "^3.5.2"
