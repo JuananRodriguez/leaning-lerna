@@ -1,0 +1,17 @@
+{
+  "name": "models",
+  "version": "1.0.0",
+  "description": "common models with validations package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "juanantonio@secmotic.com",
+  "license": "ISC",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
